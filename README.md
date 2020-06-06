@@ -70,3 +70,14 @@ https://zhuanlan.zhihu.com/p/102033063?utm_source=wechat_session&utm_medium=soci
 论文：https://deepmotionediting.github.io/papers/Motion_Style_Transfer-camera-ready.pdf
 
 
+## 图形学类
+
+---
+顶尖的图形学教程-闫令琪UCSB
+http://games-cn.org/intro-graphics/
+https://www.bilibili.com/video/av90798049
+
+## C++类
+---
+非常全面系统的C++教程
+https://github.com/Light-City/CPlusPlusThings
